@@ -17,5 +17,11 @@
 }
 
 .logo{
-    height: 2rem;
+    height: 5rem;
+}
+
+.menu li{
+    font-weight: 600;
+    padding: .5rem;
+    text-align: center;
 }
